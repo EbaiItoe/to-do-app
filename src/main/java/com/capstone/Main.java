@@ -1,8 +1,6 @@
 package com.capstone;
 
-import com.pluralsight.ui.ToDoAppUI;
-
-// Revert commit test
+import com.capstone.ui.ToDoAppUI;
 
 public class Main {
     public static void main(String[] args) {
