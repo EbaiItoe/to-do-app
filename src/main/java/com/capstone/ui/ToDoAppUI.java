@@ -1,4 +1,4 @@
-package com.pluralsight.ui;
+package com.capstone.ui;
 
 import com.capstone.model.Priority;
 import com.capstone.model.Task;
