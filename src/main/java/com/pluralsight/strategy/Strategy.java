@@ -5,5 +5,5 @@ import java.util.Comparator;
 
 public interface TaskSortStrategy {
     Comparator<Task> getComparator();
-    String getName();
+    String getNames();
 }
