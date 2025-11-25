@@ -1,7 +1,9 @@
 package com.capstone;
 
+import com.capstone.ui.ToDoAppUI;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello!");
+        new ToDoAppUI().run();
     }
 }
